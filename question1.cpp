@@ -44,7 +44,7 @@ cin>>x;
 
 int a[6]={5,8,10,45,95,455};
 //calling the function search
-Search ( a , 0 , 6 , x);
+Search ( a , 0 , 5 , x);
 
 return 0;
 
